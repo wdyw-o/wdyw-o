@@ -1,11 +1,11 @@
-## Привет (ᵔ0ᵔ◍)
+## Привет (◍ᵔ0ᵔ◍)
 Меня зовут Вера и я будущий веб-разработчик <3
 
 <picture>
   <img src="https://github.com/wdyw-o/wdyw-o/blob/main/2e590bd5f708c2e586035c0c57a2fd1c.jpg?raw=true" width="270">
 </picture>
 
-## About me
+### About me
 <b> Мои хобби: </b> рисование, рукоделие, деградировавние и прокрастинация
 
 
