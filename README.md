@@ -1,25 +1,9 @@
-## Привет (◍ᵔ0ᵔ◍)
-Меня зовут Вера и я будущий веб-разработчик <3
+## Привет, меня зовут Вера и я будущий веб-разработчик <3
 
 <picture>
-  <img src="https://github.com/wdyw-o/wdyw-o/blob/main/2e590bd5f708c2e586035c0c57a2fd1c.jpg?raw=true" width="270">
+  <img align="left" src="https://github.com/wdyw-o/wdyw-o/blob/main/2e590bd5f708c2e586035c0c57a2fd1c.jpg?raw=true" position="center" width="270">
 </picture>
 
-### About me
-<b> Мои хобби: </b> рисование, рукоделие, деградировавние и прокрастинация
-
-
-
-<!--
-**wdyw-o/wdyw-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me ;)
+<p> <b>Изучаю:</b> </span> Python, html и CSS </p>
+<p> <b>Хобби:</b> рисование, рукоделие, деградировавние и прокрастинация </p>
