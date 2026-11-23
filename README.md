@@ -5,5 +5,5 @@
 </picture>
 
 ### About me ;)
-<p> <b> Изучаю: </b> <code>.py</code>, <code>.css</code> и <code>.js</code> </p>
+<p> <b> Изучаю: </b> <code>.py</code>, <code>.html</code>, <code>.css</code> и <code>.js</code> </p>
 <p> <b> Хобби: </b> рисование, рукоделие, чтение </p>
